@@ -3,7 +3,7 @@
 #ejercicio personal para entender mejor los ciclos y condicionantes
 bandera=True
 lista_pacientes=["Juan", "Diego"]
-
+#DIA 1 Y 2 CLASES
 while bandera:
     print(" Menu Medico")
     print("1-Ingresar Paciente")
