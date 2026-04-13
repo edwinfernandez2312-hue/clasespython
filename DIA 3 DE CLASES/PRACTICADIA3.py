@@ -2,8 +2,6 @@ import csv
 import json
 import pandas as pd
 
-# --- FUNCIONES DE LECTURA (Lo que pide la pizarra) ---
-
 def leer_csv(ruta):
     try:
         with open(ruta, mode='r', encoding='utf-8') as archivo:
@@ -27,7 +25,7 @@ def leer_parquet(ruta):
     except FileNotFoundError:
         return "Error: No se encontró usuarios_prueba.parquet"
 
-# --- EJECUCIÓN DE LA PRÁCTICA ---
+# PRACTICA
 
 print("--- PROCESANDO DATOS REALES (DÍA 3) ---")
 
