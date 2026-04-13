@@ -1,0 +1,802 @@
+[
+    {
+        "id_producto": 1,
+        "producto": "Producto_1",
+        "precio": 456.88,
+        "cantidad": 9,
+        "proveedor": "Proveedor_11",
+        "fecha_entrega": "2026-04-22"
+    },
+    {
+        "id_producto": 2,
+        "producto": "Producto_2",
+        "precio": 372.31,
+        "cantidad": 76,
+        "proveedor": "Proveedor_17",
+        "fecha_entrega": "2026-04-21"
+    },
+    {
+        "id_producto": 3,
+        "producto": "Producto_3",
+        "precio": 297.21,
+        "cantidad": 98,
+        "proveedor": "Proveedor_9",
+        "fecha_entrega": "2026-04-17"
+    },
+    {
+        "id_producto": 4,
+        "producto": "Producto_4",
+        "precio": 312.75,
+        "cantidad": 16,
+        "proveedor": "Proveedor_11",
+        "fecha_entrega": "2026-04-15"
+    },
+    {
+        "id_producto": 5,
+        "producto": "Producto_5",
+        "precio": 114.99,
+        "cantidad": 31,
+        "proveedor": "Proveedor_4",
+        "fecha_entrega": "2026-05-10"
+    },
+    {
+        "id_producto": 6,
+        "producto": "Producto_6",
+        "precio": 33.61,
+        "cantidad": 86,
+        "proveedor": "Proveedor_2",
+        "fecha_entrega": "2026-04-15"
+    },
+    {
+        "id_producto": 7,
+        "producto": "Producto_7",
+        "precio": 219.45,
+        "cantidad": 100,
+        "proveedor": "Proveedor_3",
+        "fecha_entrega": "2026-05-05"
+    },
+    {
+        "id_producto": 8,
+        "producto": "Producto_8",
+        "precio": 207.66,
+        "cantidad": 41,
+        "proveedor": "Proveedor_3",
+        "fecha_entrega": "2026-04-15"
+    },
+    {
+        "id_producto": 9,
+        "producto": "Producto_9",
+        "precio": 442.32,
+        "cantidad": 59,
+        "proveedor": "Proveedor_14",
+        "fecha_entrega": "2026-04-28"
+    },
+    {
+        "id_producto": 10,
+        "producto": "Producto_10",
+        "precio": 296.82,
+        "cantidad": 84,
+        "proveedor": "Proveedor_20",
+        "fecha_entrega": "2026-04-24"
+    },
+    {
+        "id_producto": 11,
+        "producto": "Producto_11",
+        "precio": 487.07,
+        "cantidad": 39,
+        "proveedor": "Proveedor_13",
+        "fecha_entrega": "2026-04-20"
+    },
+    {
+        "id_producto": 12,
+        "producto": "Producto_12",
+        "precio": 364.71,
+        "cantidad": 33,
+        "proveedor": "Proveedor_1",
+        "fecha_entrega": "2026-04-24"
+    },
+    {
+        "id_producto": 13,
+        "producto": "Producto_13",
+        "precio": 298.73,
+        "cantidad": 31,
+        "proveedor": "Proveedor_10",
+        "fecha_entrega": "2026-04-13"
+    },
+    {
+        "id_producto": 14,
+        "producto": "Producto_14",
+        "precio": 38.87,
+        "cantidad": 38,
+        "proveedor": "Proveedor_6",
+        "fecha_entrega": "2026-05-02"
+    },
+    {
+        "id_producto": 15,
+        "producto": "Producto_15",
+        "precio": 234.62,
+        "cantidad": 31,
+        "proveedor": "Proveedor_7",
+        "fecha_entrega": "2026-05-06"
+    },
+    {
+        "id_producto": 16,
+        "producto": "Producto_16",
+        "precio": 288.58,
+        "cantidad": 31,
+        "proveedor": "Proveedor_14",
+        "fecha_entrega": "2026-04-12"
+    },
+    {
+        "id_producto": 17,
+        "producto": "Producto_17",
+        "precio": 171.37,
+        "cantidad": 42,
+        "proveedor": "Proveedor_6",
+        "fecha_entrega": "2026-04-21"
+    },
+    {
+        "id_producto": 18,
+        "producto": "Producto_18",
+        "precio": 261.73,
+        "cantidad": 44,
+        "proveedor": "Proveedor_13",
+        "fecha_entrega": "2026-05-03"
+    },
+    {
+        "id_producto": 19,
+        "producto": "Producto_19",
+        "precio": 435.93,
+        "cantidad": 27,
+        "proveedor": "Proveedor_9",
+        "fecha_entrega": "2026-05-09"
+    },
+    {
+        "id_producto": 20,
+        "producto": "Producto_20",
+        "precio": 33.24,
+        "cantidad": 38,
+        "proveedor": "Proveedor_15",
+        "fecha_entrega": "2026-05-05"
+    },
+    {
+        "id_producto": 21,
+        "producto": "Producto_21",
+        "precio": 465.0,
+        "cantidad": 44,
+        "proveedor": "Proveedor_10",
+        "fecha_entrega": "2026-04-27"
+    },
+    {
+        "id_producto": 22,
+        "producto": "Producto_22",
+        "precio": 330.79,
+        "cantidad": 44,
+        "proveedor": "Proveedor_4",
+        "fecha_entrega": "2026-05-10"
+    },
+    {
+        "id_producto": 23,
+        "producto": "Producto_23",
+        "precio": 211.28,
+        "cantidad": 30,
+        "proveedor": "Proveedor_2",
+        "fecha_entrega": "2026-05-01"
+    },
+    {
+        "id_producto": 24,
+        "producto": "Producto_24",
+        "precio": 18.23,
+        "cantidad": 55,
+        "proveedor": "Proveedor_18",
+        "fecha_entrega": "2026-04-24"
+    },
+    {
+        "id_producto": 25,
+        "producto": "Producto_25",
+        "precio": 272.62,
+        "cantidad": 16,
+        "proveedor": "Proveedor_12",
+        "fecha_entrega": "2026-05-02"
+    },
+    {
+        "id_producto": 26,
+        "producto": "Producto_26",
+        "precio": 482.95,
+        "cantidad": 77,
+        "proveedor": "Proveedor_9",
+        "fecha_entrega": "2026-04-24"
+    },
+    {
+        "id_producto": 27,
+        "producto": "Producto_27",
+        "precio": 469.93,
+        "cantidad": 46,
+        "proveedor": "Proveedor_1",
+        "fecha_entrega": "2026-04-20"
+    },
+    {
+        "id_producto": 28,
+        "producto": "Producto_28",
+        "precio": 213.48,
+        "cantidad": 61,
+        "proveedor": "Proveedor_19",
+        "fecha_entrega": "2026-05-08"
+    },
+    {
+        "id_producto": 29,
+        "producto": "Producto_29",
+        "precio": 337.59,
+        "cantidad": 21,
+        "proveedor": "Proveedor_14",
+        "fecha_entrega": "2026-04-12"
+    },
+    {
+        "id_producto": 30,
+        "producto": "Producto_30",
+        "precio": 489.08,
+        "cantidad": 53,
+        "proveedor": "Proveedor_11",
+        "fecha_entrega": "2026-04-13"
+    },
+    {
+        "id_producto": 31,
+        "producto": "Producto_31",
+        "precio": 63.91,
+        "cantidad": 71,
+        "proveedor": "Proveedor_8",
+        "fecha_entrega": "2026-04-13"
+    },
+    {
+        "id_producto": 32,
+        "producto": "Producto_32",
+        "precio": 203.14,
+        "cantidad": 58,
+        "proveedor": "Proveedor_14",
+        "fecha_entrega": "2026-05-06"
+    },
+    {
+        "id_producto": 33,
+        "producto": "Producto_33",
+        "precio": 418.73,
+        "cantidad": 18,
+        "proveedor": "Proveedor_14",
+        "fecha_entrega": "2026-04-17"
+    },
+    {
+        "id_producto": 34,
+        "producto": "Producto_34",
+        "precio": 328.21,
+        "cantidad": 37,
+        "proveedor": "Proveedor_6",
+        "fecha_entrega": "2026-04-20"
+    },
+    {
+        "id_producto": 35,
+        "producto": "Producto_35",
+        "precio": 305.2,
+        "cantidad": 54,
+        "proveedor": "Proveedor_16",
+        "fecha_entrega": "2026-04-20"
+    },
+    {
+        "id_producto": 36,
+        "producto": "Producto_36",
+        "precio": 191.62,
+        "cantidad": 97,
+        "proveedor": "Proveedor_19",
+        "fecha_entrega": "2026-04-13"
+    },
+    {
+        "id_producto": 37,
+        "producto": "Producto_37",
+        "precio": 262.59,
+        "cantidad": 57,
+        "proveedor": "Proveedor_5",
+        "fecha_entrega": "2026-04-19"
+    },
+    {
+        "id_producto": 38,
+        "producto": "Producto_38",
+        "precio": 140.76,
+        "cantidad": 96,
+        "proveedor": "Proveedor_7",
+        "fecha_entrega": "2026-04-19"
+    },
+    {
+        "id_producto": 39,
+        "producto": "Producto_39",
+        "precio": 310.36,
+        "cantidad": 15,
+        "proveedor": "Proveedor_15",
+        "fecha_entrega": "2026-05-04"
+    },
+    {
+        "id_producto": 40,
+        "producto": "Producto_40",
+        "precio": 325.41,
+        "cantidad": 97,
+        "proveedor": "Proveedor_16",
+        "fecha_entrega": "2026-04-26"
+    },
+    {
+        "id_producto": 41,
+        "producto": "Producto_41",
+        "precio": 232.25,
+        "cantidad": 17,
+        "proveedor": "Proveedor_1",
+        "fecha_entrega": "2026-04-28"
+    },
+    {
+        "id_producto": 42,
+        "producto": "Producto_42",
+        "precio": 239.38,
+        "cantidad": 31,
+        "proveedor": "Proveedor_9",
+        "fecha_entrega": "2026-05-06"
+    },
+    {
+        "id_producto": 43,
+        "producto": "Producto_43",
+        "precio": 313.22,
+        "cantidad": 52,
+        "proveedor": "Proveedor_19",
+        "fecha_entrega": "2026-05-01"
+    },
+    {
+        "id_producto": 44,
+        "producto": "Producto_44",
+        "precio": 253.45,
+        "cantidad": 88,
+        "proveedor": "Proveedor_4",
+        "fecha_entrega": "2026-04-25"
+    },
+    {
+        "id_producto": 45,
+        "producto": "Producto_45",
+        "precio": 153.92,
+        "cantidad": 76,
+        "proveedor": "Proveedor_19",
+        "fecha_entrega": "2026-05-09"
+    },
+    {
+        "id_producto": 46,
+        "producto": "Producto_46",
+        "precio": 272.17,
+        "cantidad": 89,
+        "proveedor": "Proveedor_2",
+        "fecha_entrega": "2026-04-26"
+    },
+    {
+        "id_producto": 47,
+        "producto": "Producto_47",
+        "precio": 294.9,
+        "cantidad": 35,
+        "proveedor": "Proveedor_5",
+        "fecha_entrega": "2026-05-02"
+    },
+    {
+        "id_producto": 48,
+        "producto": "Producto_48",
+        "precio": 137.75,
+        "cantidad": 53,
+        "proveedor": "Proveedor_4",
+        "fecha_entrega": "2026-04-23"
+    },
+    {
+        "id_producto": 49,
+        "producto": "Producto_49",
+        "precio": 465.35,
+        "cantidad": 22,
+        "proveedor": "Proveedor_20",
+        "fecha_entrega": "2026-05-02"
+    },
+    {
+        "id_producto": 50,
+        "producto": "Producto_50",
+        "precio": 134.71,
+        "cantidad": 63,
+        "proveedor": "Proveedor_17",
+        "fecha_entrega": "2026-05-03"
+    },
+    {
+        "id_producto": 51,
+        "producto": "Producto_51",
+        "precio": 417.99,
+        "cantidad": 98,
+        "proveedor": "Proveedor_10",
+        "fecha_entrega": "2026-05-08"
+    },
+    {
+        "id_producto": 52,
+        "producto": "Producto_52",
+        "precio": 36.29,
+        "cantidad": 62,
+        "proveedor": "Proveedor_2",
+        "fecha_entrega": "2026-04-29"
+    },
+    {
+        "id_producto": 53,
+        "producto": "Producto_53",
+        "precio": 214.63,
+        "cantidad": 74,
+        "proveedor": "Proveedor_18",
+        "fecha_entrega": "2026-04-20"
+    },
+    {
+        "id_producto": 54,
+        "producto": "Producto_54",
+        "precio": 106.0,
+        "cantidad": 36,
+        "proveedor": "Proveedor_14",
+        "fecha_entrega": "2026-05-02"
+    },
+    {
+        "id_producto": 55,
+        "producto": "Producto_55",
+        "precio": 118.53,
+        "cantidad": 3,
+        "proveedor": "Proveedor_9",
+        "fecha_entrega": "2026-04-14"
+    },
+    {
+        "id_producto": 56,
+        "producto": "Producto_56",
+        "precio": 320.49,
+        "cantidad": 27,
+        "proveedor": "Proveedor_7",
+        "fecha_entrega": "2026-04-27"
+    },
+    {
+        "id_producto": 57,
+        "producto": "Producto_57",
+        "precio": 99.66,
+        "cantidad": 93,
+        "proveedor": "Proveedor_14",
+        "fecha_entrega": "2026-05-09"
+    },
+    {
+        "id_producto": 58,
+        "producto": "Producto_58",
+        "precio": 294.79,
+        "cantidad": 6,
+        "proveedor": "Proveedor_19",
+        "fecha_entrega": "2026-04-26"
+    },
+    {
+        "id_producto": 59,
+        "producto": "Producto_59",
+        "precio": 443.73,
+        "cantidad": 67,
+        "proveedor": "Proveedor_18",
+        "fecha_entrega": "2026-04-27"
+    },
+    {
+        "id_producto": 60,
+        "producto": "Producto_60",
+        "precio": 338.51,
+        "cantidad": 9,
+        "proveedor": "Proveedor_20",
+        "fecha_entrega": "2026-04-25"
+    },
+    {
+        "id_producto": 61,
+        "producto": "Producto_61",
+        "precio": 341.25,
+        "cantidad": 22,
+        "proveedor": "Proveedor_17",
+        "fecha_entrega": "2026-04-21"
+    },
+    {
+        "id_producto": 62,
+        "producto": "Producto_62",
+        "precio": 272.69,
+        "cantidad": 22,
+        "proveedor": "Proveedor_14",
+        "fecha_entrega": "2026-04-21"
+    },
+    {
+        "id_producto": 63,
+        "producto": "Producto_63",
+        "precio": 164.92,
+        "cantidad": 16,
+        "proveedor": "Proveedor_1",
+        "fecha_entrega": "2026-04-20"
+    },
+    {
+        "id_producto": 64,
+        "producto": "Producto_64",
+        "precio": 89.7,
+        "cantidad": 16,
+        "proveedor": "Proveedor_14",
+        "fecha_entrega": "2026-04-21"
+    },
+    {
+        "id_producto": 65,
+        "producto": "Producto_65",
+        "precio": 322.26,
+        "cantidad": 56,
+        "proveedor": "Proveedor_17",
+        "fecha_entrega": "2026-04-20"
+    },
+    {
+        "id_producto": 66,
+        "producto": "Producto_66",
+        "precio": 293.98,
+        "cantidad": 73,
+        "proveedor": "Proveedor_9",
+        "fecha_entrega": "2026-04-16"
+    },
+    {
+        "id_producto": 67,
+        "producto": "Producto_67",
+        "precio": 142.66,
+        "cantidad": 84,
+        "proveedor": "Proveedor_20",
+        "fecha_entrega": "2026-05-03"
+    },
+    {
+        "id_producto": 68,
+        "producto": "Producto_68",
+        "precio": 357.14,
+        "cantidad": 97,
+        "proveedor": "Proveedor_10",
+        "fecha_entrega": "2026-05-03"
+    },
+    {
+        "id_producto": 69,
+        "producto": "Producto_69",
+        "precio": 312.66,
+        "cantidad": 69,
+        "proveedor": "Proveedor_1",
+        "fecha_entrega": "2026-05-08"
+    },
+    {
+        "id_producto": 70,
+        "producto": "Producto_70",
+        "precio": 406.37,
+        "cantidad": 34,
+        "proveedor": "Proveedor_7",
+        "fecha_entrega": "2026-04-24"
+    },
+    {
+        "id_producto": 71,
+        "producto": "Producto_71",
+        "precio": 474.45,
+        "cantidad": 50,
+        "proveedor": "Proveedor_3",
+        "fecha_entrega": "2026-04-14"
+    },
+    {
+        "id_producto": 72,
+        "producto": "Producto_72",
+        "precio": 349.1,
+        "cantidad": 84,
+        "proveedor": "Proveedor_18",
+        "fecha_entrega": "2026-04-28"
+    },
+    {
+        "id_producto": 73,
+        "producto": "Producto_73",
+        "precio": 467.03,
+        "cantidad": 100,
+        "proveedor": "Proveedor_16",
+        "fecha_entrega": "2026-04-23"
+    },
+    {
+        "id_producto": 74,
+        "producto": "Producto_74",
+        "precio": 376.49,
+        "cantidad": 97,
+        "proveedor": "Proveedor_2",
+        "fecha_entrega": "2026-04-13"
+    },
+    {
+        "id_producto": 75,
+        "producto": "Producto_75",
+        "precio": 314.37,
+        "cantidad": 24,
+        "proveedor": "Proveedor_18",
+        "fecha_entrega": "2026-04-13"
+    },
+    {
+        "id_producto": 76,
+        "producto": "Producto_76",
+        "precio": 375.82,
+        "cantidad": 70,
+        "proveedor": "Proveedor_5",
+        "fecha_entrega": "2026-04-19"
+    },
+    {
+        "id_producto": 77,
+        "producto": "Producto_77",
+        "precio": 361.22,
+        "cantidad": 18,
+        "proveedor": "Proveedor_1",
+        "fecha_entrega": "2026-05-03"
+    },
+    {
+        "id_producto": 78,
+        "producto": "Producto_78",
+        "precio": 342.62,
+        "cantidad": 74,
+        "proveedor": "Proveedor_2",
+        "fecha_entrega": "2026-04-27"
+    },
+    {
+        "id_producto": 79,
+        "producto": "Producto_79",
+        "precio": 354.51,
+        "cantidad": 34,
+        "proveedor": "Proveedor_11",
+        "fecha_entrega": "2026-04-29"
+    },
+    {
+        "id_producto": 80,
+        "producto": "Producto_80",
+        "precio": 36.92,
+        "cantidad": 59,
+        "proveedor": "Proveedor_18",
+        "fecha_entrega": "2026-04-29"
+    },
+    {
+        "id_producto": 81,
+        "producto": "Producto_81",
+        "precio": 77.89,
+        "cantidad": 90,
+        "proveedor": "Proveedor_17",
+        "fecha_entrega": "2026-04-28"
+    },
+    {
+        "id_producto": 82,
+        "producto": "Producto_82",
+        "precio": 65.65,
+        "cantidad": 33,
+        "proveedor": "Proveedor_9",
+        "fecha_entrega": "2026-04-19"
+    },
+    {
+        "id_producto": 83,
+        "producto": "Producto_83",
+        "precio": 41.46,
+        "cantidad": 39,
+        "proveedor": "Proveedor_7",
+        "fecha_entrega": "2026-05-06"
+    },
+    {
+        "id_producto": 84,
+        "producto": "Producto_84",
+        "precio": 190.01,
+        "cantidad": 54,
+        "proveedor": "Proveedor_11",
+        "fecha_entrega": "2026-05-06"
+    },
+    {
+        "id_producto": 85,
+        "producto": "Producto_85",
+        "precio": 61.29,
+        "cantidad": 68,
+        "proveedor": "Proveedor_12",
+        "fecha_entrega": "2026-04-20"
+    },
+    {
+        "id_producto": 86,
+        "producto": "Producto_86",
+        "precio": 126.1,
+        "cantidad": 24,
+        "proveedor": "Proveedor_1",
+        "fecha_entrega": "2026-05-06"
+    },
+    {
+        "id_producto": 87,
+        "producto": "Producto_87",
+        "precio": 95.57,
+        "cantidad": 41,
+        "proveedor": "Proveedor_13",
+        "fecha_entrega": "2026-04-21"
+    },
+    {
+        "id_producto": 88,
+        "producto": "Producto_88",
+        "precio": 160.51,
+        "cantidad": 33,
+        "proveedor": "Proveedor_18",
+        "fecha_entrega": "2026-05-04"
+    },
+    {
+        "id_producto": 89,
+        "producto": "Producto_89",
+        "precio": 7.26,
+        "cantidad": 12,
+        "proveedor": "Proveedor_16",
+        "fecha_entrega": "2026-04-15"
+    },
+    {
+        "id_producto": 90,
+        "producto": "Producto_90",
+        "precio": 368.23,
+        "cantidad": 56,
+        "proveedor": "Proveedor_4",
+        "fecha_entrega": "2026-04-20"
+    },
+    {
+        "id_producto": 91,
+        "producto": "Producto_91",
+        "precio": 310.87,
+        "cantidad": 86,
+        "proveedor": "Proveedor_18",
+        "fecha_entrega": "2026-05-04"
+    },
+    {
+        "id_producto": 92,
+        "producto": "Producto_92",
+        "precio": 182.32,
+        "cantidad": 1,
+        "proveedor": "Proveedor_12",
+        "fecha_entrega": "2026-04-14"
+    },
+    {
+        "id_producto": 93,
+        "producto": "Producto_93",
+        "precio": 249.22,
+        "cantidad": 33,
+        "proveedor": "Proveedor_6",
+        "fecha_entrega": "2026-04-18"
+    },
+    {
+        "id_producto": 94,
+        "producto": "Producto_94",
+        "precio": 212.3,
+        "cantidad": 88,
+        "proveedor": "Proveedor_10",
+        "fecha_entrega": "2026-05-07"
+    },
+    {
+        "id_producto": 95,
+        "producto": "Producto_95",
+        "precio": 400.17,
+        "cantidad": 46,
+        "proveedor": "Proveedor_12",
+        "fecha_entrega": "2026-04-19"
+    },
+    {
+        "id_producto": 96,
+        "producto": "Producto_96",
+        "precio": 318.71,
+        "cantidad": 36,
+        "proveedor": "Proveedor_15",
+        "fecha_entrega": "2026-04-15"
+    },
+    {
+        "id_producto": 97,
+        "producto": "Producto_97",
+        "precio": 177.29,
+        "cantidad": 28,
+        "proveedor": "Proveedor_19",
+        "fecha_entrega": "2026-04-21"
+    },
+    {
+        "id_producto": 98,
+        "producto": "Producto_98",
+        "precio": 27.14,
+        "cantidad": 77,
+        "proveedor": "Proveedor_4",
+        "fecha_entrega": "2026-05-02"
+    },
+    {
+        "id_producto": 99,
+        "producto": "Producto_99",
+        "precio": 243.43,
+        "cantidad": 41,
+        "proveedor": "Proveedor_9",
+        "fecha_entrega": "2026-04-17"
+    },
+    {
+        "id_producto": 100,
+        "producto": "Producto_100",
+        "precio": 138.12,
+        "cantidad": 90,
+        "proveedor": "Proveedor_10",
+        "fecha_entrega": "2026-04-12"
+    }
+]
