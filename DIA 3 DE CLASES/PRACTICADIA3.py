@@ -1,7 +1,7 @@
 import csv
 import json
 import pandas as pd
-
+#REPOSICION DE ACIVIDAD
 def leer_csv(ruta):
     try:
         with open(ruta, mode='r', encoding='utf-8') as archivo:
@@ -25,7 +25,7 @@ def leer_parquet(ruta):
     except FileNotFoundError:
         return "Error: No se encontró usuarios_prueba.parquet"
 
-# PRACTICA
+# PRACTICA DEL DIA
 
 print("--- PROCESANDO DATOS REALES (DÍA 3) ---")
 
